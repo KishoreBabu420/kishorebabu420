@@ -1,5 +1,8 @@
 ### Hi there, I am Kishore 👋
 <br />
+Hi, I'm Kishore, a passionate self-taught web developer from India.
+<br />
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my Profile
