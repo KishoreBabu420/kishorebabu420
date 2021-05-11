@@ -35,22 +35,28 @@ Here are some ideas to get you started:
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+
 <details>
-  
   <summary>:zap: GitHub Stats</summary>
-[![Kishore's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishorebabu420)](https://github.com/kishorebabu420/github-readme-stats)
+
+  <img align="left" alt="kishore's GitHub Stats" src="https://github-readme-stats.kishorebabu420.vercel.app/api?username=kishorebabu420&show_icons=true&hide_border=true" />
 
 </details>
 
 <br />
 
 ### Connect with me:
+
 <br />
-<!--[<img align="left" alt="kishore.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
+
+<!--
+<img align="left" alt="kishore.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
 <!--[<img align="left" alt="kishore | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]-->
 [<img align="left" alt="kishore | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="kshore | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+
 [instagram]: https://www.instagram.com/kishorekammela/
 [linkedin]: https://www.linkedin.com/in/kskishorebabu/
