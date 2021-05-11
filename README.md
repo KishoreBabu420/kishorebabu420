@@ -36,9 +36,12 @@ Here are some ideas to get you started:
 
 <br />
 <br />
+</details>
+
 <details>
- <summary>:zap: My GitHub Stats</summary>
-[![Kishore's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishorebabu420)]
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="kishore's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kishorebabu420&show_icons=true&hide_border=true" />
 
 </details>
 
