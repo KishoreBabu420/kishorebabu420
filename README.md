@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 <details>
-
+ <summary>:zap: My GitHub Stats</summary>
 [![Kishore's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishorebabu420)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
