@@ -29,12 +29,6 @@ Hi, I'm Kishore, a passionate self-taught web developer from India.
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> -->
 <br />
 
-### Connect with me:
-
-<br />
-[<img align="left" alt="kishore | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="kshore | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br />
 
 
 [instagram]: https://www.instagram.com/kishorekammela/
