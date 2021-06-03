@@ -28,23 +28,10 @@ Hi, I'm Kishore, a passionate self-taught web developer from India.
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <br />
-<br />
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="kishore's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kishorebabu420&show_icons=true&hide_border=true" />
-
-</details>
-
-<br />
-<br />
 
 ### Connect with me:
 
 <br />
-
 <!--
 <img align="left" alt="kishore.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
 <!--[<img align="left" alt="kishore | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]-->
